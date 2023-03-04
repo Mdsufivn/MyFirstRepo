@@ -22,6 +22,14 @@ public class Adding_Numbers {
 		 * i++;
 		 * }
 		 */
+		Sum = 0
+i = 0
+i < 15 (every time i is smaller than 15, will loop)
+i++ will do infinetly
+sum = sum + 1
+Query added itself by subtracting 1 going to 0 from 15 units to get =
+120
+
 	}
 
 }
