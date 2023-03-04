@@ -7,5 +7,10 @@ public class Calculater {
 		
 	return c; 
 	}
+		 public int doSub(int a, int b) {
+			 int c = a - b;
+			 return c;
+		 } 
+		 
 	
 }
