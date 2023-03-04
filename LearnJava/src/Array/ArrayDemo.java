@@ -1,4 +1,4 @@
-package FirstJava;
+package Array;
 
 public class ArrayDemo {
 

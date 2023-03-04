@@ -1,6 +1,6 @@
-package FirstJava;
+package Array;
 
-public class MyFirstJavaCode {
+public class TwoD_Array {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

@@ -1,4 +1,4 @@
-package FirstJava;
+package Data_Types;
 
 public class Else_Demo {
 
