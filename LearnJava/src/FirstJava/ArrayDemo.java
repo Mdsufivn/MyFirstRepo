@@ -3,7 +3,7 @@ package FirstJava;
 public class ArrayDemo {
 
 	public static void main(String[] args) {
-		// This an one dimentioanl array
+		// This an one dimentioanl array.
 		//Declaring Array
 		String[] myArray = new String[3];
 		
