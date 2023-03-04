@@ -4,7 +4,7 @@ public class ArrayDemo {
 
 	public static void main(String[] args) {
 		
-		//Decalring Array
+		//Declaring Array
 		String[] myArray = new String[3];
 		
 		myArray[0] = "Seleneiium";
