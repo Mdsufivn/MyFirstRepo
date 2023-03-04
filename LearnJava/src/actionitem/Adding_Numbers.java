@@ -10,7 +10,7 @@ public class Adding_Numbers {
 			sum = sum + i;
 				}
 		System.out.println("The results is : " + sum);
-				
+			
 	}
 
 }
