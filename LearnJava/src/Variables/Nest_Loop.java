@@ -7,7 +7,7 @@ public class Nest_Loop {
 		* While loop
 		* for 4
 		* do while 5
-		* it would itirate for 60 times
+		* it would iterate for 60 times
 		*/
 		 
 		 int i = 0;
