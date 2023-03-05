@@ -10,7 +10,15 @@ public class Calculater {
 		 public int doSub(int a, int b) {
 			 int c = a - b;
 			 return c;
+		 }
+			 public String concatStr(String a, String b) {
+				 String c = a +" "+ b;
+				 return c;
+			 }
+			 
+			 public static do3MuL(int a, int b, int c);
+			 int results = a * b * c;
+			 return results
 		 } 
-		 
 	
-}
+
