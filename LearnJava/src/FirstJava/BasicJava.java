@@ -8,12 +8,12 @@ public class BasicJava {
 	}
 
 }
-// public static void main(String[] args) {}
+// public static void main(String[] arguments) {}
 // "Public" Access specifier
 // "static" Nature of method
 // "void" Return type
 // "Main" Method name
-// "String + Args" Parameter
+// "String + Arguments" Parameter
 // "starts and ends w/ curly bracket" Method Body
 
 
@@ -25,3 +25,4 @@ public class BasicJava {
  * Parameter
  * Method Body
  */
+
