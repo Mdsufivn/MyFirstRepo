@@ -7,6 +7,26 @@ public class Bank {
 	private int pinNumber = 1234;
 	private double balance = 150000;
 	
+	public int getPinNumber() {
+		return pinNumber;
+	}
+
+	public void setPinNumber(int pinNumber) {
+		this.pinNumber = pinNumber;
+	}
+
+	public double getBalance() {
+		return balance;
+	}
+
+	public void setBalance(double balance) {
+		this.balance = balance;
+	}
+
+	public int getAccountNumber() {
+		return accountNumber;
+	}
+
 	public void drawMoney(int acctNo, int pinNo, int amount) {
 		
 		if(acctNo== accountNumber && pinNo== pinNumber) {
