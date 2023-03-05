@@ -16,7 +16,7 @@ public class Test_Calculater {
 		System.out.println(doDiv(30, 7));
 		obj.sound();
 		obj.noise(); // for non static, you need to create an obj in Static method
-		System.out.print(Calculater.do3MuL(2, 3, 4));
+		System.out.println(Calculater.do3Mul(1, 2, 3) );;
 	}
 	
 	public int doMul(int a, int b) {

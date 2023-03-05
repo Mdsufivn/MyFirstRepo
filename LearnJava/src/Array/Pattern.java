@@ -17,7 +17,7 @@ public class Pattern {
 			System.out.println();
 		}
 		
-		System.out.println("Hurrah!");
+		System.out.println("Hurrah! Pattern using nested loop");
 	}
 
 }

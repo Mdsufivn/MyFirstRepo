@@ -16,9 +16,14 @@ public class Calculater {
 				 return c;
 			 }
 			 
-			 public static do3MuL(int a, int b, int c);
-			 int results = a * b * c;
-			 return results
+			 public static int do3Mul(int a, int b, int c) {
+
+				 int result = a * b * c;
+
+				 return result ;
+
+
+				 }
 		 } 
 	
 
