@@ -19,29 +19,18 @@ public class TwoD_Array2 {
 		//I am printing the value from the second array and second value
 		System.out.println(my2darray[1][1]);
 		
-		// 
+		// Another way of declaring 2D array
+		int [][] array2 = {{4, 3, 5}, {6, 7, 8}};
+		int length = array2.length;
+		int length2 = array2[1].length;
 		
-		
-		
-		int lenghtFirstArray = my2darray.length;		
-		int lenght2ndArray = my2darray[0].length;
-		System.out.println("Lenght of 2 Day arra");
-		System.out.println(lenghtFirstArray);		
-		System.out.println(lenght2ndArray);
-		
-		System.out.println("Caputring all the values from the 2d array");
-		for (int i=0; i<my2darray.length; i++)
-			
-		{
-			for (int j=0; j<my2darray[0].length; j++) 
-			{
-				System.out.println(my2darray[i][j]);
+		for (int i=0; i<length; i++) {
+			for (int j=0; j<length2; j++) {
+				System.out.println(array2[i][j]);
 			}
-					
 		}
-		
 	}
-	
 }
+	
 		
 
