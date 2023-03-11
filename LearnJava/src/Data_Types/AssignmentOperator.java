@@ -6,11 +6,11 @@ public class AssignmentOperator {
 
 		/** Assignment Operators ( =. +=, -=, *=, /= and %=)
 		 * a = 7 means a = 7
-		 * a+ = 7means a = a+7
-		 * a- = 7means a = a-7
-		 * a* = 7means a = a*7
-		 * a/ = 7means a = a/7
-		 * a% = 7means a = a%7
+		 * a+ = 7 means a = a+7
+		 * a- = 7 means a = a-7
+		 * a* = 7 means a = a*7
+		 * a/ = 7 means a = a/7
+		 * a% = 7 means a = a%7
 		 */
 		// Examples:
 		int a = 87;
