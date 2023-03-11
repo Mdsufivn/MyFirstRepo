@@ -13,7 +13,10 @@ public class Action_Item3 {
 		// Assignment: These are used for assigning a value to a variable.
 
 		//Question 3: 
-
-	}
-
+		int Num = 1;
+		
+		for (int i = 1; i <= 4; i++) { 
+		  Num *= i;
+		 }System.out.println("Looped using number 4 for this result " + Num);
+	} 
 }

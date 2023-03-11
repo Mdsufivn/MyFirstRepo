@@ -13,6 +13,7 @@ public class Adding_Numbers {
 		System.out.println("The results is : " + sum);
 	}
 }
+
 		/** Alternative
 		 * 
 		 * 
